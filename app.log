@@ -1,0 +1,224 @@
+2024-10-09 02:10:32,407 - INFO - Configuration file readed
+2024-10-09 02:10:32,572 - INFO - package: mysql.connector.plugins
+2024-10-09 02:10:32,572 - INFO - plugin_name: caching_sha2_password
+2024-10-09 02:10:32,574 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-10-09 02:10:32,575 - INFO - package: mysql.connector.plugins
+2024-10-09 02:10:32,576 - INFO - plugin_name: mysql_native_password
+2024-10-09 02:10:32,577 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-10-09 02:10:32,723 - WARNING - Parsing error in feed: http://rss.cnn.com/rss/cnn_topstories.rss, bozo_exception: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2024-10-09 02:10:32,725 - WARNING - Parsing error in feed: http://qz.com/feed, bozo_exception: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2024-10-09 02:10:32,730 - WARNING - Parsing error in feed: http://feeds.foxnews.com/foxnews/politics, bozo_exception: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2024-10-09 02:10:32,731 - WARNING - Parsing error in feed: http://feeds.reuters.com/reuters/businessNews, bozo_exception: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2024-10-09 02:10:32,733 - WARNING - Parsing error in feed: http://feeds.feedburner.com/NewshourWorld, bozo_exception: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2024-10-09 02:10:32,749 - WARNING - Parsing error in feed: https://feeds.bbci.co.uk/news/world/asia/india/rss.xml, bozo_exception: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2024-10-09 02:10:32,749 - INFO - Data from feeds recorded successfully in the database
+2024-10-09 02:11:41,523 - INFO - Configuration file readed
+2024-10-09 02:11:41,660 - INFO - package: mysql.connector.plugins
+2024-10-09 02:11:41,661 - INFO - plugin_name: caching_sha2_password
+2024-10-09 02:11:41,661 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-10-09 02:11:41,662 - INFO - package: mysql.connector.plugins
+2024-10-09 02:11:41,662 - INFO - plugin_name: mysql_native_password
+2024-10-09 02:11:41,662 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-10-09 02:11:42,987 - INFO - New article added: Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:42,993 - INFO - New article added: Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,001 - INFO - New article added: Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,007 - INFO - New article added: Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case' from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,012 - INFO - New article added: 'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,022 - INFO - New article added: Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,037 - INFO - New article added: White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,053 - INFO - New article added: Newly released video shows scene of Jeremy Renner's snowplow accident from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,058 - INFO - New article added: Jake Gyllenhaal and Jamie Lee Curtis spent the Covid-19 lockdown together from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,067 - INFO - New article added: Toddler crawls through White House fence, prompts Secret Service response from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,073 - INFO - New article added: Jamie Foxx remains hospitalized nearly a week after 'medical complication' from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,082 - INFO - New article added: A 13-year-old dies after participating in a Benadryl TikTok 'challenge' from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,089 - INFO - New article added: See pizza delivery guy take out suspect fleeing police from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,097 - INFO - New article added: Netflix is winding down its DVD business after 25 years from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,103 - INFO - New article added: FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,108 - INFO - New article added: Eating too much of these foods is driving the rise in type 2 diabetes, study says from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,115 - INFO - New article added: ADHD medication abuse in schools is a 'wake-up call' from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,120 - INFO - New article added: Apple CEO was presented with an original Macintosh. See his reaction from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,124 - INFO - New article added: Democrats bash Justice Clarence Thomas but their plan to investigate ethics allegations is unclear from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,133 - INFO - New article added: Russia is 'going backwards' in equipment and deploying post WWII-era tanks, according to Western officials from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,140 - INFO - New article added: Two Russians claiming to be former Wagner commanders admit killing children and civilians in Ukraine from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,149 - INFO - New article added: 'My stomach is hurting from laughing': Hear panelist's reaction to DeSantis' threat to Disney from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,155 - INFO - New article added: GOP prepared to block vote to replace Feinstein on Senate Judiciary from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,161 - INFO - New article added: Oklahoma governor calls on officials to resign over recording of racist and threatening remarks from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,170 - INFO - New article added: McCarthy slams Biden in handling of US debt from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,174 - INFO - New article added: US warns Russia not to touch American nuclear technology at Ukrainian nuclear plant from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,182 - INFO - New article added: Repeated gunshots fired on live TV as ex-lawmaker shot by assassins from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,188 - INFO - New article added: FDA clears the way for additional bivalent boosters for certain vulnerable individuals from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,193 - INFO - New article added: Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,201 - INFO - New article added: Southwest says flights resumed after delays caused by 'tech issues' from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,206 - INFO - New article added: Damar Hamlin cleared to resume football activities after January cardiac arrest from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,212 - INFO - New article added: Pilot makes history after landing on top of a 56-story hotel from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,220 - INFO - New article added: Top US Navy admiral defends non-binary sailor amid some Republican criticism from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,225 - INFO - New article added: Fulton County DA says fake Trump electors are incriminating one another and wants lawyer disqualified from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,234 - INFO - New article added: High speed trains are racing across the world. But not in America from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,240 - INFO - New article added: Podcast: One country musician is calling for other artists to oppose assault rifles from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,245 - INFO - New article added: Here's what you need to know if you haven't filed your return yet — and even if you have from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,255 - INFO - New article added: Undocumented immigrants are paying their taxes today, too from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,259 - INFO - New article added: Opinion: Why millionaires like us want to pay more in taxes from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,267 - INFO - New article added: 'World's longest' purpose-built cycling tunnel opens in Norway from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,272 - INFO - New article added: Artist rejects photo prize after AI-generated image wins award from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,278 - INFO - New article added: These ships disappeared in Lake Superior a century ago. Watch as they're found again from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,287 - INFO - New article added: Erotic images of seniors show sex and intimacy in new light from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,291 - INFO - New article added: China's economy is off to a solid start, rising 4.5% in Q1 2023 from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,299 - INFO - New article added: Even when wives make as much as husbands, they still do more at home from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,305 - INFO - New article added: McDonald's is upgrading its burgers from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,310 - INFO - New article added: Google-parent stock drops on fears it could lose search market share to AI-powered rivals from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,318 - INFO - New article added: Bidets save you money and reduce waste — we tested the best options out there from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,323 - INFO - New article added: 50+ products to make your life easier and our planet cleaner from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,330 - INFO - New article added: Mother's Day is around the corner. Here are 50+ thoughtful gifts she'll love from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,334 - INFO - New article added: A head-to-toe guide of how men should dress this spring, and where they should shop from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,339 - INFO - New article added: 42 of the most useful travel products you can buy on Amazon from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,346 - INFO - New article added: The 7 best high-yield savings accounts of April 2023 from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,351 - INFO - New article added: Taxes are due tomorrow. Here's how to file for an extension from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,357 - INFO - New article added: Composting is an easy way to reduce food waste. Here's how to do it from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,364 - INFO - New article added: We stopped using aluminum foil for cooking and you should too. Here's what to use instead from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,368 - INFO - New article added: The beloved Dyson Supersonic hair dryer is at its lowest price ever from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,374 - INFO - New article added: Everything you need to know about Way Day 2023, Wayfair's biggest sale of the year from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,382 - INFO - New article added: The 10 best Amazon deals to shop this week from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,388 - INFO - New article added: Mifepristone saved my life from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,499 - INFO - New article added: The 2024 presidential alternative many voters will want from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,510 - INFO - New article added: Why isn't the House Judiciary Committee looking into Thomas? from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,516 - INFO - New article added: Top secrets come spilling out from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,522 - INFO - New article added: How did Sudan go from casting off despotic rule to this? from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,528 - INFO - New article added: Michelle Yeoh set to return in new 'Star Trek' movie from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,536 - INFO - New article added: Recap: 'Succession' finds dark humor in the aftershocks from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,544 - INFO - New article added: 'Yellowjackets' leans hard into '90s music nostalgia, and we're here for it from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,552 - INFO - New article added: Jeremy Renner revisits 'the amazing group of people' who helped him recover from his accident from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,559 - INFO - New article added: Review: 'Barry' takes a whack at its farewell season from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 02:11:43,565 - INFO - Data from http://rss.cnn.com/rss/cnn_topstories.rss committed successfully.
+2024-10-09 02:11:47,224 - INFO - New article added: Can Costco compete online without killing the 'treasure hunt'? from http://qz.com/feed
+2024-10-09 02:11:47,229 - INFO - New article added: Americans are slowing down on their credit card spending — here’s why from http://qz.com/feed
+2024-10-09 02:11:47,234 - INFO - New article added: Making your Lyft driver wait could now cost you from http://qz.com/feed
+2024-10-09 02:11:47,239 - INFO - New article added: FAANG and data center stocks are a buy to cash in on AI's next phase, strategist says from http://qz.com/feed
+2024-10-09 02:11:47,244 - INFO - New article added: Luxury car sales are tanking as drivers look for cheaper options from http://qz.com/feed
+2024-10-09 02:11:47,254 - INFO - New article added: All the airports closing for Hurricane Milton from http://qz.com/feed
+2024-10-09 02:11:47,258 - INFO - New article added: The next Nvidia? Data center stocks could be a goldmine, strategist says from http://qz.com/feed
+2024-10-09 02:11:47,271 - INFO - New article added: Home Depot says corporate employees have to try working in actual stores from http://qz.com/feed
+2024-10-09 02:11:47,280 - INFO - New article added: Look inside Clint Eastwood’s California home that just sold for more than $18 million from http://qz.com/feed
+2024-10-09 02:11:47,285 - INFO - New article added: WeightWatchers is getting in on the off-brand weight loss drug game — and selling them cheap from http://qz.com/feed
+2024-10-09 02:11:47,291 - INFO - New article added: A self-driving truck startup wants Waymo, Cruise, and others to follow its lead on safety from http://qz.com/feed
+2024-10-09 02:11:47,299 - INFO - New article added: Kamala Harris wants Medicare to help cover in-home eldercare. Here's how she plans to pay for it from http://qz.com/feed
+2024-10-09 02:11:47,307 - INFO - New article added: Two AI pioneers won the Nobel Prize for their work in machine learning from http://qz.com/feed
+2024-10-09 02:11:47,315 - INFO - New article added: Toyota is delaying plans to make electric cars in America from http://qz.com/feed
+2024-10-09 02:11:47,323 - INFO - New article added: Bitcoin creator Satoshi Nakamoto unmasked: Will HBO reveal who really made the cryptocurrency? from http://qz.com/feed
+2024-10-09 02:11:47,334 - INFO - New article added: Even a grocery store is offering free streaming perks now from http://qz.com/feed
+2024-10-09 02:11:47,340 - INFO - New article added: 10 cities where low mortgage rates have homeowners locked in 'golden handcuffs' from http://qz.com/feed
+2024-10-09 02:11:47,348 - INFO - New article added: Tesla's big robotaxi event might not even have real cars from http://qz.com/feed
+2024-10-09 02:11:47,356 - INFO - New article added: SpaceX says it could launch Starship soon if the FAA lets it from http://qz.com/feed
+2024-10-09 02:11:47,366 - INFO - New article added: Uber will use ChatGPT to get more people to use EVs from http://qz.com/feed
+2024-10-09 02:11:47,373 - INFO - New article added: Everything to know about Nvidia, from the stock to its AI chips from http://qz.com/feed
+2024-10-09 02:11:47,382 - INFO - New article added: Why are the world's wealthiest families flocking to family offices? from http://qz.com/feed
+2024-10-09 02:11:47,394 - INFO - New article added: The top 10 mental health apps to try on World Mental Health Day from http://qz.com/feed
+2024-10-09 02:11:47,403 - INFO - New article added: Costco's gold bars are selling out fast from http://qz.com/feed
+2024-10-09 02:11:47,411 - INFO - New article added: FTX shareholders could get $1 billion after crypto firm is cleared to fully repay customers from http://qz.com/feed
+2024-10-09 02:11:47,424 - INFO - New article added: Christine McVie’s Fleetwood Mac scrapbook, Dianne Feinstein’s books, and an iconic Marilyn Monroe portrait: this week’s auction block roundup from http://qz.com/feed
+2024-10-09 02:11:47,434 - INFO - New article added: McDonald's is suing Tyson Foods for allegedly choking the beef supply chain to raise prices from http://qz.com/feed
+2024-10-09 02:11:47,440 - INFO - New article added: Donald Trump's plans would cut taxes on the richest 5% of America — and raise them for everyone else from http://qz.com/feed
+2024-10-09 02:11:47,453 - INFO - New article added: Super Micro Computer stock surges 15% on big AI demand from http://qz.com/feed
+2024-10-09 02:11:47,462 - INFO - New article added: A hot meal on a transatlantic JetBlue flight will now cost extra from http://qz.com/feed
+2024-10-09 02:11:47,474 - INFO - New article added: EV chargers that feel more like a gas station are coming from http://qz.com/feed
+2024-10-09 02:11:47,499 - INFO - New article added: Bankrupt EV startup Fisker left its abandoned headquarters in 'complete disarray' from http://qz.com/feed
+2024-10-09 02:11:47,555 - INFO - New article added: A Frontier Airlines flight trailed flames as it landed from http://qz.com/feed
+2024-10-09 02:11:47,605 - INFO - New article added: A classic Hamptons home, cliffside Beverly Hills bungalow and mansion-sized Manhattan townhouse: This week’s real estate roundup from http://qz.com/feed
+2024-10-09 02:11:47,632 - INFO - New article added: Trump Media stock spikes 15% after Elon Musk came to a campaign rally from http://qz.com/feed
+2024-10-09 02:11:47,646 - INFO - New article added: Panera Bread settled a Charged Lemonade lawsuit after a student's death from http://qz.com/feed
+2024-10-09 02:11:47,664 - INFO - New article added: Tesla Cybertrucks are still being insured by Geico — despite claims otherwise from http://qz.com/feed
+2024-10-09 02:11:47,682 - INFO - New article added: Boeing is restarting talks to end a strike some compare to an economic Hurricane Helene from http://qz.com/feed
+2024-10-09 02:11:47,698 - INFO - New article added: Who really created Bitcoin? A new HBO documentary claims it has the answer from http://qz.com/feed
+2024-10-09 02:11:47,706 - INFO - New article added: Martin Shkreli can't escape his $64 million fine from http://qz.com/feed
+2024-10-09 02:11:47,715 - INFO - New article added: Red Lobster's new CEO admits it: 'Endless Shrimp' was a disaster from http://qz.com/feed
+2024-10-09 02:11:47,723 - INFO - New article added: Fisker is dead. But its legal problems are very much alive from http://qz.com/feed
+2024-10-09 02:11:47,732 - INFO - New article added: Donald Trump would balloon the federal debt by twice as much as Kamala Harris, report says from http://qz.com/feed
+2024-10-09 02:11:47,747 - INFO - New article added: FTX token, Sui, Aptos, Popcat, and more: Cryptocurrencies to watch this week from http://qz.com/feed
+2024-10-09 02:11:47,754 - INFO - New article added: Even Big Oil wants Donald Trump to keep Joe Biden's climate law — or at least parts of it from http://qz.com/feed
+2024-10-09 02:11:47,763 - INFO - New article added: The Dow drops over 300 points as oil prices and Treasury yields rise from http://qz.com/feed
+2024-10-09 02:11:47,767 - INFO - New article added: Goldman Sachs says the S&P 500 could hit 6,000 this year from http://qz.com/feed
+2024-10-09 02:11:47,779 - INFO - New article added: Inside the slow-motion fall of Patrick Drahi from http://qz.com/feed
+2024-10-09 02:11:47,787 - INFO - Data from http://qz.com/feed committed successfully.
+2024-10-09 02:11:49,893 - INFO - New article added: Prospects of a deal with Israel fade away as Saudis invite Iranian foreign minister to visit from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,902 - INFO - New article added: Reporter's Notebook: With no government shutdown, it feels like Christmas in September from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,920 - INFO - New article added: Early voting means 'election season' has already begun from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,934 - INFO - New article added: Overseas meth sent to US election building shuts down office for hours from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,941 - INFO - New article added: Kamala Harris' tough words on Iran confounds critics from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,952 - INFO - New article added: New poll shows Harris taking a slim lead over Trump thanks to support from a surprising group from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,959 - INFO - New article added: North Carolina residents will see changes to early voting after Hurricane Helene from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,967 - INFO - New article added: New poll reveals which voter group are fueling Trump to a narrow edge over Harris in battleground from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,974 - INFO - New article added: Texas AG demands Biden-Harris admin help verify citizenship of nearly 500K registered voters from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,982 - INFO - New article added: SEE IT: Wisconsin dairy farmer says 'no question' Trump admin was 'much better' than Biden-Harris from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:49,990 - INFO - New article added: Biden cancels overseas trip as Milton bears down on Florida; DeSantis tells VP 'it's not about you Kamala' from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,000 - INFO - New article added: Mayorkas rips 'politicized' atmosphere over FEMA disaster response amid GOP criticism: 'It sows distrust' from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,006 - INFO - New article added: Hispanic voters rail against 'dishonest' Biden-Harris border record as poll shows Trump gaining in key states from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,011 - INFO - New article added: PA gov takes victory lap after Supreme Court rejects GOP bid to overturn election law ‘usurpations’ from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,020 - INFO - New article added: House GOP targets Biden 'social cost' policy for rising energy prices from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,026 - INFO - New article added: NYC First Deputy Mayor Sheena Wright resigns as Eric Adams' administration suffers more departures from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,039 - INFO - New article added: GOP lawmaker unveils effort to ban illegal immigrants from using IDs to buy guns from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,043 - INFO - New article added: Oregon mistakenly registered hundreds more voters without proving citizenship from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,050 - INFO - New article added: 5 key takeaways from Kamala Harris' '60 Minutes' interview from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,057 - INFO - New article added: Biden White House has ‘very low’ trust in Netanyahu regime, urges transparency: report from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,063 - INFO - New article added: Fox News Power Rankings: The biggest surprises come after October from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,068 - INFO - New article added: Wisconsin Senate race shifts to 'toss up' by handicapper as Tammy Baldwin fights for re-election from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,083 - INFO - New article added: Mike Lee outlines roadmap for McConnell successor, warns the 'health of the Republican Party' is at stake from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,089 - INFO - New article added: Harris takes slim lead over Trump in new poll as voters view her as candidate of change from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,093 - INFO - New article added: 'Tough call': Atlanta voters split on who will win Georgia from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 02:11:50,099 - INFO - Data from http://feeds.foxnews.com/foxnews/politics committed successfully.
+2024-10-09 02:11:51,132 - WARNING - Parsing error in feed: http://feeds.reuters.com/reuters/businessNews, bozo_exception: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+2024-10-09 02:11:53,568 - INFO - New article added: Xi Jinping celebrates China’s rising power — and his own from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,572 - INFO - New article added: The battle for Mosul is over, but this hidden ISIS danger could lurk for years from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,578 - INFO - New article added: As Rohingya refugees continue to flee from persecution, here’s how you can help from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,585 - INFO - New article added: Tillerson: ‘Heartbreaking’ reports of suffering in Myanmar from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,592 - INFO - New article added: Far-right groups gain ground in Sweden and Germany amid migrant influx from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,596 - INFO - New article added: U.S.-backed Syrian forces recapture Raqqa from Islamic State group from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,603 - INFO - New article added: WATCH: Trump and Greek prime minister hold joint news conference from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,610 - INFO - New article added: U.S., Japan agree to maximize diplomatic pressure on North Korea from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,619 - INFO - New article added: News Wrap: Dozens missing after deadly Mogadishu truck bombing from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,625 - INFO - New article added: Why a power struggle has broken out over Kirkuk from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,630 - INFO - New article added: Rex Tillerson says continue diplomacy with North Korea ‘until first bomb drops’ from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,637 - INFO - New article added: Iraqi, Kurdish forces in standoff, weeks after Kurdish vote for independence from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,643 - INFO - New article added: South Sudan civil war causes Africa’s worst refugee crisis from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,651 - INFO - New article added: Hundreds dead after massive truck bomb strikes Mogadishu from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,659 - INFO - New article added: Column: Why reporting from South Sudan is so difficult — and critically needed from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 02:11:53,661 - INFO - Data from http://feeds.feedburner.com/NewshourWorld committed successfully.
+2024-10-09 02:11:54,352 - INFO - New article added: Kashmir and Haryana prove India exit polls wrong from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,356 - INFO - New article added: Indian financial aid opens 'new chapter' with Maldives from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,361 - INFO - New article added: Why are there so many dropped catches at T20 World Cup? from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,367 - INFO - New article added: Climbers rescued after three days in the Himalayas from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,374 - INFO - New article added: Maldives president visits India amid trouble in tourist paradise from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,379 - INFO - New article added: The Polish artist who painted Hindu gods in Indian palaces from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,386 - INFO - New article added: India government says criminalising marital rape 'excessively harsh' from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,393 - INFO - New article added: India's foreign minister to visit Pakistan for the first time since 2015 from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,398 - INFO - New article added: How India became a Test cricket powerhouse from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,405 - INFO - New article added: India's iconic tramcars set to ride into Kolkata sunset from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,511 - INFO - New article added: My mission is to take Tamil music global, says Sid Sriram from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,520 - INFO - New article added: India's top court saves a poor student's college dream from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,525 - INFO - New article added: The 'mastermind' behind India's biggest jailbreak from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,531 - INFO - New article added: The world’s diamond polishing capital feels Ukraine war impact from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,538 - INFO - New article added: Sold out in minutes, resold for millions: Coldplay tickets spark outrage in India from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,544 - INFO - New article added: A famed holy sweet in an unsavoury row in India from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,548 - INFO - New article added: Your essential guide to the ICC Women's T20 World Cup from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,552 - INFO - New article added: The Kashmiri politician whose return from jail ruffled feathers from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,574 - INFO - New article added: Death of Indian employee sparks debate on 'toxic work culture' from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,579 - INFO - New article added: Tigers and crocs make mangrove preservation tough work from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,586 - INFO - New article added: How Punjabi megastar Diljit Dosanjh is inspiring the next gen from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,593 - INFO - New article added: Hema committee report: Why are India's biggest film stars silent? from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,600 - INFO - New article added: Volunteers dying as Russia’s war dead tops 70,000 from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,604 - INFO - New article added: Why hundreds of Samsung workers are protesting in India from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,611 - INFO - New article added: 'Please save me': The Indians duped into fighting for Russia from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,619 - INFO - New article added: After a decade, Kashmir votes in historic elections from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,625 - INFO - New article added: The German woman who helped build an Indian university from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,632 - INFO - New article added: Bangladesh leader’s ‘megaphone diplomacy’ irks India from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,638 - INFO - New article added: India's oldest trams may soon be brought to a halt from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,645 - INFO - New article added: Kolkata night protest: 'Today I witnessed history' from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,653 - INFO - New article added: Watch: Thousands of women protest about rape and murder of doctor in India from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,658 - INFO - New article added: Watch: Building collapses into river in Himachal Pradesh from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,666 - INFO - New article added: Watch: Blue screens, queues and airport delays worldwide from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,670 - INFO - New article added: Lavish Ambani wedding divides opinions in India from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,678 - INFO - New article added: Former PMs, film and sports stars join Ambani wedding from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,685 - INFO - New article added: WATCH: Families mourn victims of deadly India crush from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,692 - INFO - New article added: Watch: Delhi airport roof collapses due to heavy rain from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,696 - INFO - New article added: What worked for India's Modi - and what didn’t? from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,704 - INFO - New article added: Arrests, accusations and AI: India’s election unpacked from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 02:11:54,709 - INFO - Data from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml committed successfully.
+2024-10-09 02:11:54,710 - INFO - Data from feeds recorded successfully in the database

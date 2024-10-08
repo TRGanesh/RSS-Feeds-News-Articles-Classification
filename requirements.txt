@@ -1,0 +1,7 @@
+pandas==1.5.3
+feedparser==6.0.11
+beautifulsoup4==4.11.1
+sqlalchemy==2.0.20
+mysql-connector-python==8.1.0
+nltk==3.7
+bs4==0.0.1

@@ -1,0 +1,4 @@
+[database]
+user = root
+password = root
+name = News_Articles_DB
